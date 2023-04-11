@@ -1,0 +1,8 @@
+runtime:
+  device: cuda
+data:
+  events_file: /home/edgar/Downloads/events_10132022112259.bin
+model:
+  path: /home/edgar/Downloads
+  uri: sam/vit_b
+  checkpoint: sam_vit_b_01ec64.pth

@@ -1,0 +1,11 @@
+kornia
+kornia_rs
+limbus
+opencv-python
+farm-ng-core
+farm-ng-amiga
+pyyaml
+# not needed after: https://github.com/kornia/kornia/pull/2315
+wheel
+git+https://github.com/facebookresearch/segment-anything.git
+torchvision
